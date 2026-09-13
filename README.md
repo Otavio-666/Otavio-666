@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente curso Tecnico em Desenvolvimento de Sistema junto ao Ensino Meio no IFPR- Campus Foz do Iguaçu. 
+Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente estou no Ensino Médio Técnico em Desenvolvimento de Sistemas no IFPR- Campus Foz do Iguaçu. 
  
 #
 
