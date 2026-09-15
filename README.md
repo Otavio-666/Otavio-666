@@ -10,11 +10,11 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
  
 #
 
-<img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo_ghoul.mp4">
+<img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo_ghoul.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:20251foz0020021@estudantes.ifpr.edu.br)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=GMAIL&logoColor=F1F1F1&color:FFF)](mailto:20251foz0020021@estudantes.ifpr.edu.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/ferraz.k1/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=F1F1F1&color:FFF)](https://discord.com/users/847133587483656202)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=Steam&logoColor=F1F1F1&color:FFF)](https://steamcommunity.com/profiles/76561198864404148)
@@ -83,6 +83,16 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
 />
+
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
 <br/>
 <br/>
 
