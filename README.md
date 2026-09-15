@@ -10,7 +10,7 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
  
 #
 
-<img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo ghoul.mp4">
+<img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo_ghoul.mp4">
 
 <h3 align="left">Connect with me!</h3>
 
