@@ -6,15 +6,15 @@
 
 #
 
-Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente estou no Ensino Médio Técnico em Desenvolvimento de Sistemas no IFPR- Campus Foz do Iguaçu. 
+Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente curso Tecnico em Desenvolvimento de Sistema junto ao Ensino Meio no IFPR- Campus Foz do Iguaçu. 
  
 #
 
-<img align="right" alt="" height="190px" src="./src/tokyo_ghoul.gif">
+<img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo ghoul.mp4">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=F1F1F1&color:FFF)](mailto:20251foz0020021@estudantes.ifpr.edu.br)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:20251foz0020021@estudantes.ifpr.edu.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/ferraz.k1/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=F1F1F1&color:FFF)](https://discord.com/users/847133587483656202)
 [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=Steam&logoColor=F1F1F1&color:FFF)](https://steamcommunity.com/profiles/76561198864404148)
@@ -83,16 +83,6 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
 />
-
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
 <br/>
 <br/>
 
@@ -111,7 +101,7 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-nu-black-57.vercel.app/api/top-langs/?username=Otavio-666&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-three-tau-69.vercel.app/api/top-langs/?username=Otavio-666&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
