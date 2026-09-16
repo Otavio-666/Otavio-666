@@ -10,9 +10,10 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
  
 #
 
+
 <img align="right" alt="" height="190px" border-radius:10p src="./src/tokyo_ghoul.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect with me:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=GMAIL&logoColor=F1F1F1&color:FFF)](mailto:20251foz0020021@estudantes.ifpr.edu.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/ferraz.k1/)
@@ -20,8 +21,7 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
 [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=Steam&logoColor=F1F1F1&color:FFF)](https://steamcommunity.com/profiles/76561198864404148)
 
 
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack:</h3>
 
 <img 
     align="left" 
@@ -48,15 +48,6 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
 <img 
     align="left" 
     alt="Git" 
@@ -75,14 +66,6 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Arch"
-    title="Arch"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
-/>
 
 <img
     align="left"
@@ -99,11 +82,55 @@ Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmen
     title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
 <br/>
 <br/>
+
+#
+
+<h3 align="left">My Tools:</h3>
+
+<img
+    align="left"
+    alt="Arch"
+    title="Arch"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+    align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<br/>
+
+#
 
 <h3 align="left">GitHub Stats</h3>
 
