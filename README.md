@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente curso Tecnico em Desenvolvimento de Sistema junto ao Ensino Meio no IFPR- Campus Foz do Iguaçu. 
+Me chamo Otávio Suptil Ferraz, tenho 16 anos e moro em Foz do Iguaçu. Atualmente curso Tecnico em Desenvolvimento de Sistema junto ao Ensino Medio no IFPR- Campus Foz do Iguaçu. 
  
 #
 
